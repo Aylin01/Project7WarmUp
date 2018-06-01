@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		919274D520C0BEEF00BB5D13 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 919274D420C0BEEF00BB5D13 /* main.cpp */; };
+		919274D520C0BEEF00BB5D13 /* warmup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 919274D420C0BEEF00BB5D13 /* warmup.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		919274D120C0BEEF00BB5D13 /* Project 7 Warmup */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Project 7 Warmup"; sourceTree = BUILT_PRODUCTS_DIR; };
-		919274D420C0BEEF00BB5D13 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		919274D420C0BEEF00BB5D13 /* warmup.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = warmup.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		919274D320C0BEEF00BB5D13 /* Project 7 Warmup */ = {
 			isa = PBXGroup;
 			children = (
-				919274D420C0BEEF00BB5D13 /* main.cpp */,
+				919274D420C0BEEF00BB5D13 /* warmup.cpp */,
 			);
 			path = "Project 7 Warmup";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				919274D520C0BEEF00BB5D13 /* main.cpp in Sources */,
+				919274D520C0BEEF00BB5D13 /* warmup.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
